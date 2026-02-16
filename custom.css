@@ -5,15 +5,23 @@ h1 {
 }
 
 h2, h3, h4, h5, p {
-  font-family: 'Libre Baskerville';
+  font-family: 'Georgia';
 }
 
 
 h2 {
   font-size: 20px;
-  color: #5d8366;
+  color: #5d3722;
+  font-weight: bold;
 }
 
+h3 {
+    color:#5d8366;
+}
+
+p {
+    color: #5d3722;
+}
 
 /* SOCIAL BUTTONS */
 .social {
@@ -104,3 +112,16 @@ h2 {
     font-weight: 400;
     font-style: normal;
   }
+
+/* changes the color of my links */
+a:link {
+  color: #f5da25;
+  /* color: #FF5722; */
+  text-decoration: none;
+}
+
+a:visited {
+  color: #f5da25;
+  /* color: #FF5722; */
+  text-decoration: none;
+}
