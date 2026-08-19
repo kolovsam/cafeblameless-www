@@ -71,10 +71,10 @@ p {
  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
   /* background-color: #005249 !important;
   border-color: #005249; */
-  background-color: #E4D7C4 !important;
-  border-color: #334d2f;
-  color: #403330;
-  font-family: 'Libre Baskerville';
+  background-color: #5d8366 !important;
+  border-color: #5d8366;
+  color: #FFFFFF;
+  font-family: 'Georgia';
   
 } 
 
@@ -84,7 +84,7 @@ p {
   background-color: #403330 !important;
   border-color: #403330;
   color: #E4D7C4;
-  font-family: 'Libre Baskerville';
+  font-family: 'Georgia';
   
 } 
 
