@@ -5,7 +5,7 @@ h1 {
 }
 
 h2, h3, h4, h5, p {
-  font-family: 'Georgia';
+  font-family: 'Libre Baskerville';
 }
 
 
@@ -20,7 +20,8 @@ h3 {
 }
 
 p {
-    color: #5d3722;
+  font-family: 'Libre Baskerville';
+  color: #5d3722;
 }
 
 /* SOCIAL BUTTONS */
@@ -73,8 +74,8 @@ p {
   border-color: #005249; */
   background-color: #5d8366 !important;
   border-color: #5d8366;
-  color: #FFFFFF;
-  font-family: 'Georgia';
+  color: #ffffff !important;
+  font-family: 'Calvert';
   
 } 
 
